@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)]
 <h1 align="center">Hi 👋, I'm Chinmay Khandal</h1>
 <h3 align="center">A Third Year Computer Science undergraduate at shiv nadar university.</h3>
 
