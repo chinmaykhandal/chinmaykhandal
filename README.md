@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a spotify-clone<br>👯 I’m looking to collaborate on learning NextJS and Redux<br>🤝 I’m looking for help with NextJS<br>🌱 I’m currently learning DSA, Computer Fundamentals & ReactJS<br>💬 Ask me about Javascript<br>⚡ Fun fact - There are more possible chess games than there are atoms in the observable universe
+🔭 I’m currently working on building a Note Zipper application<br>👯 I’m looking to collaborate on a Job Posting Application<br>🤝 I’m looking for help with NextJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about React<br>⚡ Fun fact - There are more possible chess games than there are atoms in the observable universe
 
 
 ## 🌐 Socials:
