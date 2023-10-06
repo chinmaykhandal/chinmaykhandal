@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Chinmay 👋
 
 I'm a passionate software developer who specializes in building MERN (MongoDB, Express.js, React, Node.js) stack applications and Next.js applications. With a strong foundation in computer science and a degree from Shiv Nadar University, I'm enthusiastic about exploring and experimenting with cutting-edge technologies to create innovative and efficient solutions.
 
