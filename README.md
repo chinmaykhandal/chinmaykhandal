@@ -1,19 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on building a Note Zipper application<br>👯 I’m looking to collaborate on a Job Posting Application<br>🤝 I’m looking for help with NextJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about React<br>⚡ Fun fact - There are more possible chess games than there are atoms in the observable universe
+# Hi, I'm [Your Name] 👋
 
+I'm a passionate software developer who specializes in building MERN (MongoDB, Express.js, React, Node.js) stack applications and Next.js applications. With a strong foundation in computer science and a degree from Shiv Nadar University, I'm enthusiastic about exploring and experimenting with cutting-edge technologies to create innovative and efficient solutions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmaykhandal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmaykhandal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chimpmay) 
+## 🚀 What I Do
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chinmaykhandal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chinmaykhandal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykhandal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 💻 I develop web applications using the MERN stack, creating robust and scalable backend APIs and interactive frontend experiences.
+- 🌐 I'm a fan of Next.js and enjoy building fast and SEO-friendly web applications.
+- 🛠️ I love diving into new technologies and frameworks to stay up-to-date with industry trends and improve my skill set.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🔧 Technologies & Tools
 
----
-[![](https://visitcount.itsvg.in/api?id=chinmaykhandal&icon=0&color=0)](https://visitcount.itsvg.in)
+Here are some of the technologies and tools I work with:
+
+- **Frontend**: React, Next.js, TypeScript, Redux, HTML5, CSS3, JavaScript
+- **Backend**: Node.js, Express.js, MongoDB, Spring Boot, RESTful APIs
+- **Database**: MongoDB, MySQL, 
+- **Tools**: Visual Studio Code, Git, GitHub, Postman, JIRA, AWS
+
+## 🌱 Learning & Projects
+
+I'm always excited to learn and work on new projects. Here are some of the things I'm currently working on or planning to explore:
+
+- 📚 Improving my knowledge of full-stack development best practices.
+- 🧪 Experimenting with serverless architecture and microservices.
+- 🌟 Contributing to open-source projects and giving back to the developer community.
+
+## 📫 Let's Connect
+
+- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/chinmaykhandal).
+- 📧 Feel free to drop me an email at [khandalchinmay@gmail.com] for collaboration or just to say hi!
+
+Thanks for stopping by, and I look forward to collaborating and sharing insights with fellow developers and tech enthusiasts!
